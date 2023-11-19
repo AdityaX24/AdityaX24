@@ -31,7 +31,7 @@ src="https://img.icons8.com/?size=512&id=60ZV_wYC0BM2&format=png" height="40" wi
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="react" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityax24&show_icons=true&locale=en&layout=compact"></p>
-<a href="https://github.com/AdityaX24/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityax24&show_icons=true&locale=en" alt="adityax24" /></p>
 
